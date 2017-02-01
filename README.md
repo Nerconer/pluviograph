@@ -36,7 +36,7 @@ Components & connection diagram
 List of the components used for the rainwater collector equipment:
 - Arduino Mega
 - High precision scales x2
-- RS-232 to TTL converver x2
+- RS-232 to TTL converter x2
 - Servomotor x2
 - ESP8266-ESP01
 - External power supply (5V)
