@@ -19,17 +19,33 @@ How can I visualize data?
 All this data gathered is be send to a web server and then stored into a database. This information shall be visualized
 as an interactive graphic using HighCharts library.
 
-![alt tag](http://i.imgur.com/xxHlHkf.png)
+![highcharts_pluviograph](http://i.imgur.com/xxHlHkf.png)
 
 How does this pluviograph look like?
 ------------------------------------
 
-In order to test de implementation, a simple prototype was created
+In order to test de implementation, a simple prototype of the rainwater collector equipment was created
 
-![alt tag](http://i.imgur.com/1aoP67O.png)
+![prototype_screenshot](http://i.imgur.com/1aoP67O.png)
+
+Components & connection diagram
+-------------------------------
+
+Here's the list of the components used for the rainwater collector equipment:
+- Arduino Mega
+- High precision scales x2
+- RS-232 to TTL converver x2
+- Servomotor x2
+- ESP8266-ESP01
+- External power supply (5V)
+
+### Connection diagram
+
+![connection_diagram](http://i.imgur.com/8O29Hsx.png)
 
 Installation
 ------------
+
 ```
 git clone https://github.com/Nerconer/pluviograph.git
 ```
