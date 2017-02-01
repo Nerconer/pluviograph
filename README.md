@@ -19,7 +19,7 @@ How can I visualize data?
 All this data gathered is be send to a web server and then stored into a database. This information shall be visualized
 as an interactive graphic using HighCharts library.
 
-![highcharts_pluviograph](https://raw.github.com/Nerconer/pluviograph/highCharts_pluviograph.png)
+![highcharts_pluviograph](https://raw.github.com/Nerconer/pluviograph/master/highCharts_pluviograph.png)
 (http://i.imgur.com/xxHlHkf.png)
 
 How does this pluviograph look like?
