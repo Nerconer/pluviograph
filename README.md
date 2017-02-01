@@ -31,7 +31,9 @@ In order to test de implementation, a simple prototype of the rainwater collecto
 Components & connection diagram
 -------------------------------
 
-Here's the list of the components used for the rainwater collector equipment:
+### Components
+
+List of the components used for the rainwater collector equipment:
 - Arduino Mega
 - High precision scales x2
 - RS-232 to TTL converver x2
