@@ -31,5 +31,9 @@ In order to test de implementation, a simple prototype was created
 Installation
 ------------
 ```
-https://github.com/Nerconer/pluviograph.git
+git clone https://github.com/Nerconer/pluviograph.git
 ```
+Configuration
+-------------
+
+Modify settings inside `initialize()` methods.
