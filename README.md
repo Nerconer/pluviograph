@@ -27,3 +27,9 @@ How does this pluviograph look like?
 In order to test de implementation, a simple prototype was created
 
 ![alt tag](http://i.imgur.com/1aoP67O.png)
+
+Installation
+------------
+```
+https://github.com/Nerconer/pluviograph.git
+```
