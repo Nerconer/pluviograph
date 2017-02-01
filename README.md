@@ -1,4 +1,4 @@
-# pluviograph
+# Electronic pluviograph
 This bachelor's thesis was focused on the design and construction from scratch of a high-precision
 electronic pluviograph for the Fabra Observatory, in Barcelona. 
 
