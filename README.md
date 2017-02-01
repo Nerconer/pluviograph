@@ -20,14 +20,13 @@ All this data gathered is be send to a web server and then stored into a databas
 as an interactive graphic using HighCharts library.
 
 ![highcharts_pluviograph](https://raw.github.com/Nerconer/pluviograph/master/imgs/highCharts_pluviograph.png)
-(http://i.imgur.com/xxHlHkf.png)
 
 How does this pluviograph look like?
 ------------------------------------
 
 In order to test de implementation, a simple prototype of the rainwater collector equipment was created
 
-![prototype_screenshot](http://i.imgur.com/1aoP67O.png)
+![prototype_screenshot](https://raw.github.com/Nerconer/pluviograph/master/imgs/prototype.png)
 
 Components & connection diagram
 -------------------------------
@@ -44,7 +43,7 @@ List of the components used for the rainwater collector equipment:
 
 ### Connection diagram
 
-![connection_diagram](http://i.imgur.com/8O29Hsx.png)
+![connection_diagram](https://raw.github.com/Nerconer/pluviograph/master/imgs/con_diagram.png)
 
 Installation
 ------------
