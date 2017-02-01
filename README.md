@@ -16,10 +16,10 @@ How can I visualize data?
 All this data gathered is be send to a web server and then stored into a database. This information shall be visualized
 as an interactive graphic using HighCharts library.
 
-![alt tag](http://imgur.com/xxHlHkf)
+![alt tag](http://i.imgur.com/xxHlHkf.png)
 
 How does this pluviograph look like?
 ------------------------------------
 In order to test de implementation, a simple prototype was created
 
-![alt tag](http://imgur.com/1aoP67O)
+![alt tag](http://i.imgur.com/1aoP67O.png)
