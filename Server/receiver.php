@@ -1,4 +1,9 @@
 <?php
+/*
+ * Author: David Solà Solé (david.sola.sole@gmail.com)
+ * Year: 2017 
+ */
+ 
 require_once('classes/Data2Bd.class.php');
 
 $data = null;
