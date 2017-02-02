@@ -1,5 +1,9 @@
-
 <?php
+/*
+ * Author: David SolÃ  SolÃ© (david.sola.sole@gmail.com)
+ * Year: 2017 
+ */
+ 
 require_once('classes/Data2Bd.class.php');
 $db = new Data2Bd();
 
@@ -341,7 +345,7 @@ div.Section2
                 downloadSVG: "Baixa en SVG",
                 printChart: "Imprimeix",
             weekdays: ['diumenge', 'dilluns', 'dimarts', 'dimecres', 'dijous', 'divendres', 'dissabte'],
-            months: ['gener', 'febrer', 'març', 'abril', 'maig', 'juny', 'juliol', 'agost', 'setembre', 'octubre', 'novembre', 'desembre'],
+            months: ['gener', 'febrer', 'marÃ§', 'abril', 'maig', 'juny', 'juliol', 'agost', 'setembre', 'octubre', 'novembre', 'desembre'],
             shortMonths: [ "gen" , "feb" , "mar" , "abr" , "mai" , "jun" , "jul" , "ago" , "set" , "oct" , "nov" , "des"],
             rangeSelectorFrom: "Des del",
             rangeSelectorTo: "Fins al",
@@ -522,7 +526,7 @@ div.Section2
                       <td class="direccion" height="16">
                       <table class="direccionlink" cellSpacing="0" cellPadding="0" width="475" align="center" border="0">
                         <tr>
-                          <td class="direccion" height="16" align="center">© Reial Acadèmia de CIències i Arts de Barcelona· 2007 </td>
+                          <td class="direccion" height="16" align="center">Â© Reial AcadÃ¨mia de CIÃ¨ncies i Arts de BarcelonaÂ· 2007 </td>
                         </tr>
                         <tr align="middle">
                           <td class="direccion" height="16">
@@ -535,7 +539,7 @@ div.Section2
                   </td>
                 </tr>
                 <tr align="middle">
-                  <td class="direccion" height="16">Pàgina web creada el Novembre de 2007</td>
+                  <td class="direccion" height="16">PÃ gina web creada el Novembre de 2007</td>
                 </tr>
               </table>
               </TD>
