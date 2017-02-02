@@ -1,0 +1,310 @@
+.Buscador {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; TEXT-TRANSFORM: none; COLOR: black; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A.Idiomas {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; TEXT-TRANSFORM: none; COLOR: #333333; LINE-HEIGHT: 75%; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.Idiomas:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.MenuIz {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; TEXT-TRANSFORM: none; COLOR: #666666; LINE-HEIGHT: 11px; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.MenuIz:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.MenuIzOff {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; TEXT-TRANSFORM: none; COLOR: #000000; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.MenuIz_color {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; TEXT-TRANSFORM: none; COLOR: #ff6666; LINE-HEIGHT: 11px; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.MenuIz_color:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ff0000; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.MenuIzOff_color {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; TEXT-TRANSFORM: none; COLOR: #ff0000; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.Path {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; TEXT-TRANSFORM: lowercase; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.Path:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; TEXT-TRANSFORM: lowercase; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.PathBold {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; TEXT-TRANSFORM: lowercase; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.Fechanegra {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; TEXT-TRANSFORM: none; COLOR: #333333; FONT-STYLE: italic; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.menuconceptual {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; TEXT-TRANSFORM: uppercase; COLOR: #000000; LINE-HEIGHT: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; LETTER-SPACING: normal; TEXT-DECORATION: none
+}
+.titulseccio {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; TEXT-TRANSFORM: uppercase; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.titulseccio:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; TEXT-TRANSFORM: uppercase; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.titolmayus {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; TEXT-TRANSFORM: uppercase; LINE-HEIGHT: 20px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.adreca {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; TEXT-TRANSFORM: none; COLOR: #666666; LINE-HEIGHT: 11px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.adrecaLink {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; TEXT-TRANSFORM: none; COLOR: #666666; LINE-HEIGHT: 11px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.adrecaLink:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; COLOR: #333333; LINE-HEIGHT: 11px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.adrecaLinkCursiva {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; TEXT-TRANSFORM: none; COLOR: #666666; LINE-HEIGHT: 11px; FONT-STYLE: italic; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.adrecaLinkCursiva:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; COLOR: #333333; LINE-HEIGHT: 11px; FONT-STYLE: italic; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.titulo {
+	FONT-WEIGHT: normal; FONT-SIZE: 14px; TEXT-TRANSFORM: uppercase; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.EnllacText {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.EnllacText:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.texnormal {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.texnormal:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.texnormalcursiva {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #333333; FONT-STYLE: italic; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.texnormalbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.texnormalboldgenerico {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.texnormalboldgenerico10 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.texnormalboldgenerico11 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.comunicats {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; TEXT-TRANSFORM: none; COLOR: #333333; LINE-HEIGHT: 11px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.comunicats:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; TEXT-TRANSFORM: none; COLOR: #000000; LINE-HEIGHT: 11px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.menuconceptualroll {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; TEXT-TRANSFORM: uppercase; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; LETTER-SPACING: normal; TEXT-DECORATION: none
+}
+.veuremas {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; TEXT-TRANSFORM: none; COLOR: #999999; LINE-HEIGHT: 11px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.veuremas:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #000000; LINE-HEIGHT: 11px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.veuremashome {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; TEXT-TRANSFORM: none; COLOR: #999999; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.titulohistoria {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; TEXT-TRANSFORM: uppercase; COLOR: #942621; LINE-HEIGHT: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.textologotipo {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.textologotipo:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.titulociencia {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; TEXT-TRANSFORM: uppercase; COLOR: #e10000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.titulofilologia {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; TEXT-TRANSFORM: uppercase; COLOR: #005499; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.titulofilosofia {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; TEXT-TRANSFORM: none; COLOR: #b12e69; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.titulobiologia {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; TEXT-TRANSFORM: none; COLOR: #008040; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.titulseccioroll {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; TEXT-TRANSFORM: uppercase; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.cercador {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.cercar {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; TEXT-TRANSFORM: uppercase; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.linkagenda {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; TEXT-TRANSFORM: none; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.linkagenda:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.linkagendados {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; TEXT-TRANSFORM: none; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.linkagendados:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; TEXT-TRANSFORM: none; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.tituloagenda {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; TEXT-TRANSFORM: uppercase; COLOR: #e52325; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.TitolAgendaVermellMinuscula {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #e52325; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.AgendaActivitatAjornada {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #e52325; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.linkagendablak {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; TEXT-TRANSFORM: none; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.titular {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; TEXT-TRANSFORM: uppercase; COLOR: #333333; LINE-HEIGHT: 20px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.mastitular {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; TEXT-TRANSFORM: uppercase; LINE-HEIGHT: 30px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.TextDestacatIEC {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.TextDestacatSHA {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #942621; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.TextDestacatSCB {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #008040; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.TextDestacatSCiT {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #e10000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.TextDestacatSF {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #005499; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.TextDestacatSFiCS {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #b12e69; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.EnllacDestacatIEC {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.EnllacDestacatIEC:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.EnllacDestacatSHA {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #942621; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.EnllacDestacatSHA:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #942621; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.EnllacDestacatSCB {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #008040; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.EnllacDestacatSCB:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #008040; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.EnllacDestacatSCiT {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #e10000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.EnllacDestacatSCiT:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #e10000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.EnllacDestacatSF {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #005499; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.EnllacDestacatSF:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #005499; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.EnllacDestacatSFiCS {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: none; COLOR: #b12e69; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.EnllacDestacatSFiCS:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #b12e69; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.mastitularsinalto {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; TEXT-TRANSFORM: uppercase; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.Nota {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; TEXT-TRANSFORM: none; COLOR: #333333; FONT-STYLE: italic; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.fondo_pri {
+	BACKGROUND-COLOR: #98afdb
+}
+.fondo_menu1 {
+	BACKGROUND-COLOR: #efefef
+}
+.fondo_menu2 {
+	BACKGROUND-COLOR: #cccccc
+}
+.fondo_blanco {
+	BACKGROUND-COLOR: #ffffff
+}
+.titulo_idiomas {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND: white; TEXT-TRANSFORM: uppercase; COLOR: #333333; LINE-HEIGHT: 20px; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.enllacExtranet {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: uppercase; COLOR: #4093a4; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.enllacExtranet:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: uppercase; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.enllacExtranetroll {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; TEXT-TRANSFORM: uppercase; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.enllacComunicacio {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ff0000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.enllacComunicacio:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.enllacComunicacioroll {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.alineacion {
+	MARGIN-TOP: 6px
+}
+
+@media Print    
+{
+.noimprimir {
+	DISPLAY: none
+}
+    }
+P {
+	MARGIN-BOTTOM: -2px
+}
+UL {
+	LIST-STYLE-POSITION: outside; LIST-STYLE-IMAGE: url(http://www.fabra.cat/gc/digitalAssets/4620_quadrat_ulWeb2.gif)
+}
+.celda {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; BORDER-LEFT: #999999 1px solid; WIDTH: 120px; BORDER-BOTTOM: #999999 1px solid; HEIGHT: 60px
+}
+.DireccioLinkCursiva {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; TEXT-TRANSFORM: none; COLOR: #666666; LINE-HEIGHT: 11px; FONT-STYLE: italic; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.DireccioLinkCursiva:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; COLOR: #333333; LINE-HEIGHT: 11px; FONT-STYLE: italic; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.agenda {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; TEXT-TRANSFORM: none; COLOR: #666666; LINE-HEIGHT: 11px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.agenda:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; LINE-HEIGHT: 11px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.agendadiasmes {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; TEXT-TRANSFORM: none; COLOR: #666666; LINE-HEIGHT: 11px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.direccion {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; TEXT-TRANSFORM: none; COLOR: #666666; LINE-HEIGHT: 11px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.direccionlink {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; TEXT-TRANSFORM: none; COLOR: #666666; LINE-HEIGHT: 11px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.direccionlink:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 9px; COLOR: #333333; LINE-HEIGHT: 11px; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
