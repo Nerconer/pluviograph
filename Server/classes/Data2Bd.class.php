@@ -1,6 +1,10 @@
 <?php
 	
-	//require_once('php_serial.class.php');
+/*
+ * Author: David Solà Solé (david.sola.sole@gmail.com)
+ * Year: 2017 
+ */
+ 
 	require_once('MysqliDb.class.php');
 
 	class Data2Bd {
@@ -47,8 +51,6 @@
 				$data_temp = floatval($data_temp);
 				$this->data = $data_temp;
 
-				// PASSAR A FLOAT	
-				// $form_order_amount = floatval(str_replace(',', '.', $form_order_amount));
 				if($this->debug) echo 'readData: Data before: ' . $data_temp . ', data processed: ' . $this->data . '<br/>';
 			}
 			else {
@@ -63,7 +65,6 @@
 
 		public function getTableOrdered($table)
 		{
-			//return $this->db->get($table);
 			$this->db->orderBy("time","asc");
 			$this->db->orderBy("id","asc");
 			return $this->db->get($table);
