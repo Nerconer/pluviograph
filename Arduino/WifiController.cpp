@@ -16,12 +16,12 @@ void WifiController::initialize()
   Serial.begin(115200);
   delay(500);
 
-  this->_pathGet = "/projecte/test_esp8266.php";
-  this->_port = "80"; // Port Host
+  this->_pathGet = "/projecte/receiver.php"; // Your receiver script
+  this->_port = "80"; // Your port Host
 
-  this->_ssid = "MOVISTAR_EXAMPLE";
-  this->_host = "192.168.1.40"; // Host IP
-  this->_pass = "AwgiDxXw67Htg3ZtxSv0";
+  this->_ssid = "MOVISTAR_EXAMPLE";      // Your SSID
+  this->_host = "192.168.1.40";          // Your host IP
+  this->_pass = "AwgiDxXw67Htg3ZtxSv0";  // Your pass
   
   sendData("AT+RST\r\n", 2000, DEBUG);      // reset module
   sendData("AT+CWMODE=3\r\n", 2000, DEBUG); // configure as access point
