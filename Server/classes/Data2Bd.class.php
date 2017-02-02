@@ -1,5 +1,4 @@
-<?php
-	
+<?php	
 /*
  * Author: David Solà Solé (david.sola.sole@gmail.com)
  * Year: 2017 
